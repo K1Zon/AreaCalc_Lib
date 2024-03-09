@@ -3,7 +3,11 @@
 ## What is this? ##
 The module allows you to easily get areas of your 2D figures using only some of their parameters.
 
-(Was made for job applying)
+(Was made for job applying, but you can still download it by using 
+
+    pip install areacalc
+    
+because i uploaded it to PyPi)
 
 -----
 
